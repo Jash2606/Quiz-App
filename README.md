@@ -64,6 +64,14 @@ This Quiz App is an interactive web application that lets users take quizzes on 
 - **Leaderboard:** Show top scores to encourage competition.
 - **Custom Quizzes:** Let users create and share their own quizzes.
 
+## Demo Picture:
+![Screenshot 2024-08-24 001820](https://github.com/user-attachments/assets/f206e61e-63c7-411a-8f85-6c0cf5fec737)
+
+![Screenshot 2024-08-24 001830](https://github.com/user-attachments/assets/d0222790-fdeb-4d9c-a2d5-69ff0858ad81)
+
+![Screenshot 2024-08-24 001901](https://github.com/user-attachments/assets/e0b1206c-405c-4f0c-9b45-8d69df641264)
+
+
 ## Contributions
 
 Contributions are welcome! Feel free to fork the project and submit a pull request with your ideas.
